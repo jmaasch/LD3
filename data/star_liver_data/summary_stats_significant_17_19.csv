@@ -1,0 +1,10 @@
+,Female (mean (std)) (N = 7679),Male (mean (std)) (N = 13422),p-value,test_type
+Active Exception Case,0.36 (0.73),0.48 (0.83),7.240623667439002e-28,t-test
+Diagnosis_1,0.03 (0.18),0.04 (0.2),0.036619884858217135,Chi-square
+Diagnosis_6,0.06 (0.23),0.02 (0.15),0.004690280614538172,Chi-square
+Diagnosis_7,0.09 (0.28),0.16 (0.37),0.010019999165115668,Chi-square
+HGT,161.9 (7.46),175.91 (8.51),0.0,t-test
+Initial MELD,20.5 (10.21),18.83 (9.87),1.5882187590431715e-31,t-test
+Payment Method,0.53 (0.5),0.54 (0.5),0.012368852983680918,Chi-square
+Recipient Age,54.46 (12.42),56.03 (10.74),4.090719447640074e-22,t-test
+WGT,75.97 (18.53),90.63 (19.59),0.0,t-test

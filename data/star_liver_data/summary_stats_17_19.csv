@@ -1,0 +1,112 @@
+,Female (mean (std)) (N = 7679),Male (mean (std)) (N = 13422),p-value,test_type
+Active Exception Case,0.36 (0.73),0.48 (0.83),7.240623667439002e-28,t-test
+BMI,28.49 (6.64),34.66 (467.84),0.2483892414841746,t-test
+Diagnosis_0,0.0 (0.01),0.0 (0.04),1.0,Fisher's exact
+Diagnosis_1,0.03 (0.18),0.04 (0.2),0.036619884858217135,Chi-square
+Diagnosis_10,0.23 (0.42),0.14 (0.35),0.126293831292964,Chi-square
+Diagnosis_11,0.06 (0.24),0.01 (0.07),0.5153516677249332,Fisher's exact
+Diagnosis_2,0.23 (0.42),0.34 (0.47),0.9576919738355164,Chi-square
+Diagnosis_3,0.1 (0.3),0.05 (0.22),0.9308548625882688,Chi-square
+Diagnosis_4,0.09 (0.29),0.14 (0.35),0.29063646845334556,Chi-square
+Diagnosis_5,0.01 (0.09),0.02 (0.14),1.0,Fisher's exact
+Diagnosis_6,0.06 (0.23),0.02 (0.15),0.004690280614538172,Chi-square
+Diagnosis_7,0.09 (0.28),0.16 (0.37),0.010019999165115668,Chi-square
+Diagnosis_8,0.02 (0.13),0.02 (0.13),1.0,Fisher's exact
+Diagnosis_9,0.09 (0.29),0.06 (0.23),0.11339730352638558,Chi-square
+Education_1.0,0.01 (0.07),0.0 (0.06),1.0,Fisher's exact
+Education_2.0,0.06 (0.24),0.06 (0.23),0.962924187606682,Chi-square
+Education_3.0,0.39 (0.49),0.4 (0.49),0.663152782018188,Chi-square
+Education_4.0,0.26 (0.44),0.24 (0.43),0.5283822047876083,Chi-square
+Education_5.0,0.19 (0.39),0.2 (0.4),0.9294770142234906,Chi-square
+Education_6.0,0.07 (0.25),0.08 (0.27),0.4778311353158522,Chi-square
+Education_998.0,0.03 (0.16),0.02 (0.14),0.6331516966586541,Chi-square
+Ethnicity_1,0.68 (0.47),0.71 (0.45),0.8937570972432483,Chi-square
+Ethnicity_2,0.09 (0.29),0.07 (0.25),0.5760210484100492,Chi-square
+Ethnicity_4,0.17 (0.37),0.16 (0.36),0.6793247864827154,Chi-square
+Ethnicity_5,0.04 (0.19),0.05 (0.22),0.20806829604358348,Chi-square
+Ethnicity_6,0.01 (0.12),0.01 (0.09),0.5575451610275222,Fisher's exact
+Ethnicity_7,0.0 (0.04),0.0 (0.04),1.0,Fisher's exact
+Ethnicity_9,0.01 (0.08),0.01 (0.07),0.19597187947402397,Fisher's exact
+Exception Type_0,0.08 (0.27),0.15 (0.36),0.3898401996338938,Chi-square
+Exception Type_1,0.05 (0.21),0.04 (0.2),0.7363022610688434,Chi-square
+Exception Type_2,0.88 (0.33),0.81 (0.39),0.1351815148534969,Chi-square
+HGT,161.9 (7.46),175.91 (8.51),0.0,t-test
+Hispanic/Latino,0.17 (0.37),0.16 (0.36),0.6793247864827154,Chi-square
+Initial MELD,20.5 (10.21),18.83 (9.87),1.5882187590431715e-31,t-test
+Initial Status,0.05 (0.21),0.02 (0.13),0.4959093363313704,Fisher's exact
+Liver Allocation (outcome),0.56 (0.5),0.61 (0.49),0.6051928670780984,Chi-square
+Number of previous transplants,0.05 (0.23),0.04 (0.23),0.2006210559339942,t-test
+Payment Method,0.53 (0.5),0.54 (0.5),0.012368852983680918,Chi-square
+REGION_1,0.04 (0.21),0.05 (0.22),0.8389172922895274,Chi-square
+REGION_10,0.09 (0.29),0.09 (0.28),0.09683959029774515,Chi-square
+REGION_11,0.09 (0.28),0.09 (0.29),0.05730986138471312,Chi-square
+REGION_2,0.11 (0.31),0.13 (0.33),0.9741641022412979,Chi-square
+REGION_3,0.15 (0.36),0.14 (0.35),0.9489888224256194,Chi-square
+REGION_4,0.13 (0.34),0.12 (0.32),0.08763877104461922,Chi-square
+REGION_5,0.17 (0.37),0.14 (0.35),0.9912962119542817,Chi-square
+REGION_6,0.03 (0.16),0.03 (0.18),0.12285139985193197,Fisher's exact
+REGION_7,0.08 (0.27),0.08 (0.28),0.47288182049449423,Chi-square
+REGION_8,0.06 (0.23),0.06 (0.23),1.0,Chi-square
+REGION_9,0.06 (0.23),0.06 (0.24),0.1406222906102819,Chi-square
+Recipient Age,54.46 (12.42),56.03 (10.74),4.090719447640074e-22,t-test
+Recipient blood type_0,0.37 (0.48),0.37 (0.48),0.7475308833379091,Chi-square
+Recipient blood type_1,0.0 (0.03),0.0 (0.04),1.0,Fisher's exact
+Recipient blood type_2,0.0 (0.0),0.0 (0.01),0.44943059642378114,t-test
+Recipient blood type_5,0.04 (0.19),0.04 (0.2),0.8335727883344992,Chi-square
+Recipient blood type_6,0.12 (0.32),0.12 (0.33),0.7811294519589803,Chi-square
+Recipient blood type_7,0.48 (0.5),0.46 (0.5),0.5419219227094804,Chi-square
+State_AK,0.0 (0.04),0.0 (0.03),1.0,Fisher's exact
+State_AL,0.02 (0.13),0.01 (0.11),1.0,Fisher's exact
+State_AR,0.01 (0.1),0.01 (0.09),1.0,Fisher's exact
+State_AZ,0.02 (0.15),0.02 (0.15),1.0,Fisher's exact
+State_CA,0.13 (0.33),0.12 (0.32),0.128315435822404,Chi-square
+State_CO,0.01 (0.12),0.01 (0.12),0.4176218263362562,Fisher's exact
+State_CT,0.01 (0.09),0.01 (0.1),0.430305315772916,Fisher's exact
+State_DC,0.0 (0.04),0.0 (0.05),1.0,Fisher's exact
+State_DE,0.01 (0.08),0.01 (0.08),1.0,Fisher's exact
+State_FL,0.05 (0.23),0.06 (0.23),0.9591763230332664,Chi-square
+State_GA,0.03 (0.18),0.03 (0.17),0.1961814160218035,Fisher's exact
+State_GU,0.0 (0.01),0.0 (0.0),1.0,Chi-square
+State_HI,0.0 (0.05),0.0 (0.05),1.0,Fisher's exact
+State_IA,0.01 (0.08),0.01 (0.1),0.33411684697959665,Fisher's exact
+State_ID,0.0 (0.06),0.0 (0.06),0.08740909963487979,Fisher's exact
+State_IL,0.04 (0.19),0.04 (0.19),0.7223931377297759,Chi-square
+State_IN,0.02 (0.12),0.02 (0.13),0.2835033983360343,Fisher's exact
+State_KS,0.01 (0.08),0.01 (0.09),0.07398913074273918,Fisher's exact
+State_KY,0.01 (0.11),0.01 (0.12),0.4063799357881992,Fisher's exact
+State_LA,0.02 (0.14),0.02 (0.12),0.27035253225207134,Fisher's exact
+State_MA,0.02 (0.15),0.03 (0.17),0.3901256162193045,Chi-square
+State_MD,0.04 (0.19),0.03 (0.17),0.9009400216623805,Chi-square
+State_ME,0.0 (0.07),0.0 (0.06),1.0,Fisher's exact
+State_MI,0.03 (0.16),0.03 (0.16),0.9634999361190919,Chi-square
+State_MN,0.01 (0.11),0.02 (0.12),0.6724561713199664,Fisher's exact
+State_MO,0.02 (0.13),0.02 (0.13),0.17777603663643476,Fisher's exact
+State_MS,0.01 (0.1),0.01 (0.1),1.0,Fisher's exact
+State_MT,0.0 (0.05),0.0 (0.04),1.0,Fisher's exact
+State_NC,0.02 (0.14),0.02 (0.14),0.7818662866596131,Fisher's exact
+State_ND,0.0 (0.05),0.0 (0.04),1.0,Fisher's exact
+State_NE,0.01 (0.07),0.01 (0.08),1.0,Fisher's exact
+State_NH,0.0 (0.06),0.0 (0.07),1.0,Fisher's exact
+State_NJ,0.03 (0.16),0.03 (0.17),0.8477528821116798,Chi-square
+State_NM,0.01 (0.08),0.0 (0.07),1.0,Fisher's exact
+State_NV,0.01 (0.07),0.0 (0.07),1.0,Fisher's exact
+State_NY,0.05 (0.22),0.06 (0.23),0.06882646160389654,Chi-square
+State_OH,0.05 (0.21),0.04 (0.2),1.0,Chi-square
+State_OK,0.01 (0.1),0.01 (0.09),0.5196604549035745,Fisher's exact
+State_OR,0.01 (0.09),0.01 (0.1),1.0,Fisher's exact
+State_PA,0.04 (0.2),0.05 (0.21),0.5011022205575068,Chi-square
+State_PR,0.0 (0.06),0.01 (0.07),1.0,Fisher's exact
+State_RI,0.0 (0.05),0.0 (0.06),1.0,Fisher's exact
+State_SC,0.01 (0.12),0.01 (0.11),0.6468334616864395,Fisher's exact
+State_SD,0.0 (0.06),0.0 (0.06),1.0,Fisher's exact
+State_TN,0.02 (0.14),0.02 (0.14),0.3784378869859563,Fisher's exact
+State_TX,0.12 (0.32),0.11 (0.31),0.1757788317396955,Chi-square
+State_UT,0.01 (0.09),0.01 (0.08),1.0,Fisher's exact
+State_VA,0.02 (0.15),0.03 (0.16),0.6320202323565268,Fisher's exact
+State_VT,0.0 (0.04),0.0 (0.05),1.0,Fisher's exact
+State_WA,0.02 (0.12),0.02 (0.13),0.7260877430239356,Fisher's exact
+State_WI,0.02 (0.14),0.02 (0.15),0.5897165165666903,Fisher's exact
+State_WV,0.01 (0.08),0.01 (0.08),1.0,Fisher's exact
+State_WY,0.0 (0.04),0.0 (0.03),1.0,Fisher's exact
+State_ZZ,0.0 (0.01),0.0 (0.01),1.0,Fisher's exact
+WGT,75.97 (18.53),90.63 (19.59),0.0,t-test

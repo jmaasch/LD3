@@ -1,0 +1,9 @@
+,Female (mean (std)) (N = 8574),Male (mean (std)) (N = 14233),p-value,test_type
+Active Exception Case,0.39 (0.58),0.43 (0.63),3.629041460516719e-07,t-test
+Ethnicity_9,0.01 (0.08),0.0 (0.07),0.02212578674857291,Fisher's exact
+Exception Type_1,0.29 (0.45),0.28 (0.45),0.021717636466939874,Chi-square
+HGT,161.96 (7.8),176.36 (8.25),0.0,t-test
+Initial MELD,22.13 (10.52),20.99 (10.48),1.861869303176983e-15,t-test
+Initial Status,0.04 (0.2),0.02 (0.12),2.8577412466666284e-31,t-test
+Recipient Age,53.83 (12.75),54.74 (11.64),3.059443988134518e-08,t-test
+WGT,75.76 (18.71),91.1 (20.32),0.0,t-test
