@@ -3,6 +3,7 @@
 This repository contains source code and simulation notebooks for *local discovery for direct discrimination* (LD3). LD3 is a local causal discovery method that is designed to assess the structural direct criterion and facilitate weighted controlled direct effect estimation.
 
 ## Repository structure
+```bash
 .
 ├── README.md
 ├── cde_simulation.ipynb: weighted cde estimation on linear-gaussian dags
@@ -19,3 +20,4 @@ This repository contains source code and simulation notebooks for *local discove
 ├── ld3.py: source code for main method
 ├── requirements.txt
 └── simulations_oracle_erdos.ipynb: experiments with erdos-renyi graphs
+```
