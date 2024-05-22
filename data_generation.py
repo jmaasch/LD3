@@ -9,9 +9,7 @@ import itertools
 import math
 from sklearn.preprocessing import StandardScaler
 
-
 class DataGeneration():
-    
     
     def generate_linear_gaussian(self,
                                  n: int = 1000, 
@@ -19,11 +17,7 @@ class DataGeneration():
                                  xy_coeff: float = 1.0,
                                  coefficient_range: tuple = (1.1, 1.25)):
 
-        '''
-        '''
-
         # Construct noise terms of structural equation.
-        # Indices: 0 = X, 1 = Y, 2 = Z1, 3 = Z2, 4 = Z3, 5 = Z4, 6 = Z5, 7 = Z6, 8 = Z7, 9 = Z8.
         total_vars = 18
         noise = []
         for var in range(total_vars):

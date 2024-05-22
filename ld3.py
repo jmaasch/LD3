@@ -214,10 +214,6 @@ class LD3():
 
         '''
         Oracle independence test given ground truth DAG.
-        This method only works for variants of the 10-node DAG, where each covariate
-        is directly adjacent to {X,Y} and has no paths to other covariates.
-
-        This test is used for the experiments reported in Figure 2 and Table B.1.
         '''
 
         if self.dag is None:
